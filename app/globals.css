@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  /* Konfigurasi Warna */
+  --color-background: #000000;
+  --color-foreground: #ffffff;
+
+  /* Konfigurasi Custom Font */
+  --font-syne: var(--font-syne), sans-serif;
+  --font-manrope: var(--font-manrope), sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Base custom cursor style */
+.cursor-none {
+  cursor: none !important;
+}
