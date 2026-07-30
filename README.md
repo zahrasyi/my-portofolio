@@ -19,4 +19,7 @@ If you want to run this project locally on your machine, follow these simple ste
 3. Run `npm run dev` to start the local development server.
 4. Open `http://localhost:3000` in your favorite browser.
 
+or click :
+`https://zahraas-porto.netlify.app/`
+
 ---.
