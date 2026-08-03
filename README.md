@@ -1,6 +1,6 @@
-# ✨ Zahra's Interactive 3D Portfolio
+# ✨ Zahraas Portfolio
 
-Hi there! 👋 I'm Zahra, an enthusiastic and ambitious Informatics student. This repository contains the source code for my personal web portfolio, designed to be highly interactive, engaging, and unique.
+Hi there! 👋 I'm Zahra, This repository contains the source code for my personal web portfolio, designed to be highly interactive, engaging, and unique.
 
 ## 🛠️ Tech Stack
 
